@@ -1,0 +1,8 @@
+{
+    "name": "Secret_Counter",
+    "author": "DocilElm",
+    "description": "/sc <UserName> to see ppl secret counter",
+    "entry": "index.js",
+    "version": "2.1.6",
+    "requires": ["request"]
+}
